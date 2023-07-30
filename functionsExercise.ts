@@ -20,7 +20,7 @@
 // - year is a multiple of 4 AND not a multiple of 100
 // OR...
 // - year is a multiple of 400
-// hint - use modulo
+// hint - use modulo r
 
 const twoFer = (name:string = "you") : string => {
     return `One for ${name}, One for me`
